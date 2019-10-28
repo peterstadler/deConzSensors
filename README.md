@@ -1,2 +1,3 @@
 # deConzSensors
- Connect simple reed switches with a deCONZ zigbee hub
+
+Connect simple reed switches with a deCONZ ZigBee hub on a Raspberry Pi
